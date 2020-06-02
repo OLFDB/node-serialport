@@ -5,4 +5,5 @@ module.exports = {
   Readline: require('@serialport/parser-readline'),
   Ready: require('@serialport/parser-ready'),
   Regex: require('@serialport/parser-regex'),
+  ValloxParser: require('@serialport/parser-vallox'),
 }
