@@ -53,6 +53,7 @@
     "@serialport/parser-readline": "^9.0.0",
     "@serialport/parser-ready": "^9.0.0",
     "@serialport/parser-regex": "^9.0.0",
+    "@serialport/parser-vallox": "^9.0.0",
     "@serialport/stream": "^9.0.0",
     "debug": "^4.1.1"
   },
